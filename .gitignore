@@ -1,0 +1,13 @@
+# Local files and release assets
+*.docx
+*.zip
+*.rar
+~$*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+tmp/
+release-assets/
+.env
+.env.*
